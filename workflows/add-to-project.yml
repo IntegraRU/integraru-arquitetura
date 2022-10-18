@@ -14,5 +14,5 @@ jobs:
         with:
           # You can target a repository in a different organization
           # to the issue
-          project-url: https://github.com/orgs/IntegraRU/projects/1
+          project-url: https://github.com/orgs/IntegraRU/projects/4
           github-token: ${{ secrets.ADD_ISSUE_TO_PROJECT }}
